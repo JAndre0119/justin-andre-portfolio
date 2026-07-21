@@ -1,7 +1,7 @@
 import styles from './Hero.module.css'
 
-const GITHUB_URL = 'https://github.com/your-username'
-const LINKEDIN_URL = 'https://www.linkedin.com/in/your-username'
+const GITHUB_URL = 'https://github.com/JAndre0119'
+const LINKEDIN_URL = 'https://www.linkedin.com/in/justin-andre-330586159/'
 const RESUME_URL = '/resume.pdf'
 
 function GitHubIcon() {
